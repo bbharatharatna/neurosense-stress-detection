@@ -1,7 +1,6 @@
 # ============================================================
 # NEUROSENSE - AI-BASED MULTIMODAL STRESS DETECTION SYSTEM
 # Full-Featured Version | 5 Modalities | 67+ Features
-
 # ============================================================
 
 import streamlit as st
