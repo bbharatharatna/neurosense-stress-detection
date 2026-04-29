@@ -697,7 +697,6 @@ def main():
 **NeuroSense - AI Stress Detection**
 
 **Developer:** B Bharatha Ratna
-B Bharatha Ratna
 
 
 **Version:** Full-Featured (67+ Features)
