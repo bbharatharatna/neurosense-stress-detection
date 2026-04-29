@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+pillow
+fpdf
+numpy<2.0
+pandas
+scipy
+scikit-learn
+joblib
+streamlit-audiorec
