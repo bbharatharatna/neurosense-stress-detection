@@ -91,11 +91,11 @@ def load_css():
 # EEG STRESS ANALYZER
 # ============================================================
 class EEGStressAnalyzer:
-    def __init__(self):
-        self.model = None
-        self.scaler = None
-        self.is_trained = False
-        self.feature_names = []
+ def __init__(self):
+ self.model = None
+ self.scaler = None
+ self.is_trained = False
+ self.feature_names = []
 
  def load_and_train(self, csv_path: str) -> dict:
  try:
