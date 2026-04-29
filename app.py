@@ -1,10 +1,7 @@
 # ============================================================
 # NEUROSENSE - AI-BASED MULTIMODAL STRESS DETECTION SYSTEM
 # Full-Featured Version | 5 Modalities | 67+ Features
-#
-# Team 17 | IT-D | 4th B.Tech II-SEM | Anurag University
-# Members: A Raviteja, B Bharatha Ratna, J Nagesh
-# Mentor : Mr. Mahesh Kumar Swamy
+
 # ============================================================
 
 import streamlit as st
@@ -1266,9 +1263,8 @@ A Raviteja, B Bharatha Ratna, J Nagesh
 ### About NeuroSense
 
 **AI-Based Multimodal Stress Detection System**
-Anurag University | Team 17, IT-D, 4th B.Tech II-SEM
-Members: A Raviteja, B Bharatha Ratna, J Nagesh
-Mentor: Mr. Mahesh Kumar Swamy
+ NeuroSense is an AI-powered 5-modality stress detection system that combines facial expression analysis, voice emotion recognition, text sentiment analysis, EEG brain signal processing, and behavioral survey responses into a unified stress assessment framework. The system extracts 67+ features across all modalities - including 15 facial features for emotion recognition via OpenCV, 12 voice features through audio signal processing, 13 text sentiment features with negation handling, 17 EEG biomarkers using Random Forest machine learning, and 3 behavioral wellness factors. Using a confidence-weighted fusion algorithm, NeuroSense delivers real-time stress assessment in under 2 seconds with 75-92% accuracy, providing personalized wellness recommendations and downloadable PDF reports with historical analytics. Built as a 100% software-based solution with local processing for privacy, the platform is scalable and accessible to students, professionals, and healthcare institutions, requiring no external hardware except optional EEG integration via Kaggle dataset demonstration.
+
 
 ---
 
@@ -1317,7 +1313,6 @@ Mentor: Mr. Mahesh Kumar Swamy
 Educational tool only - not a clinical diagnostic instrument.
 For medical concerns, consult a licensed mental health professional.
 
-Anurag University - Building the future of mental health technology
         """)
 
 
